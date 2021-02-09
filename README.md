@@ -1,4 +1,4 @@
-![Screenshot - Deno Chat App](./screenshot.png)
+
 
 # Deno Chat App
 
